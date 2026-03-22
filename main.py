@@ -7,7 +7,7 @@ import pandas as pd
 app = FastAPI(
     title="Churn Prediction API",
     description="Predicts customer churn using Random Forest trained on IBM Telco data — AUC 0.84",
-    version="2.0.0"
+    version="3.0.1"
 )
 
 model = joblib.load("churn_model.joblib")
