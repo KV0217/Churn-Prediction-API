@@ -11,10 +11,6 @@ Built with FastAPI, containerised with Docker, deployed on Render.
 | Health | https://churn-prediction-api-cbqf.onrender.com/health |
 | Streamlit | https://customer-churn-prediction-kv.streamlit.app |
 
-## Screenshots
-![API Docs](screenshots/api_docs.png)
-![API Response](screenshots/api_response.png)
-![Batch Prediction](screenshots/batch_response.png)
 
 ## Endpoints
 | Method | Endpoint | Description |
